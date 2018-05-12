@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Sheppard, William Ludwell
     alias: Sheppard, W. L. (William Ludwell)
-    birthdate: &id001 1833
+    birthdate: 1833
     deathdate: 1912
     gutenberg_agent_id: '31450'
     url: http://www.gutenberg.org/2009/agents/31450
@@ -17,12 +17,14 @@ creator:
     aliases:
     - DeMille, James
     - Mille, James de
-    birthdate: *id001
+    birthdate: 1833
     deathdate: 1880
     gutenberg_agent_id: '1482'
     url: http://www.gutenberg.org/2009/agents/1482
     wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13257#The-American-Baron--A-Novel
 gutenberg_issued: '2004-08-22'
 gutenberg_type: Text
 identifiers:
